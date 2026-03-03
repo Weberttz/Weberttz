@@ -2,8 +2,8 @@
 
 ## 🖋 Sobre mim
 - Busco me aprofundar na área de Segurança da Informação
-- Foco em Pentest
-- Criação de Ferramentas de Análise de Vunerabilidades
+- Foco em Pentest e criação de Ferramentas de Análise de Vunerabilidades
+- Estudante de Programação Competitiva
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-webert-6b9974361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)

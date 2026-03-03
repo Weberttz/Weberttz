@@ -1,28 +1,18 @@
-<h1 align="left">Olá👋 Como vai?</h1>
+# Olá, meu nome é Jonh Webert 👋
 
-###
+## 🖋 Sobre mim
+- Busco me aprofundar na área de Segurança da Informação
+- Foco em Pentest
+- Criação de Ferramentas de Análise de Vunerabilidades
 
-<p align="left">Meu nome é Jonh Webert, atualmente, estou graduando Ciência da Computação na Universidade Estadual do Ceará(UECE).</p>
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-webert-6b9974361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-###
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weberttz/)
 
-<h2 align="left">Sobre mim</h2>
+## Tecnologias utilizadas
 
-###
-
-<p align="left">🛡️🖥️Sou apaixonado por CyberSecurity <br>👨‍💻Focado em Maratona de Programação</p>
-
-###
-
-<h2 align="left">Linguagens</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+[![Back end](https://skillicons.dev/icons?i=c,cpp,git)](https://skillicons.dev)
 
 ###
 

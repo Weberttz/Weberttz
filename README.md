@@ -6,13 +6,14 @@
 - Estudante de Programação Competitiva
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-webert-6b9974361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+www.linkedin.com/in/jonh-webert-6b9974361)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weberttz/)
 
 ## Tecnologias utilizadas
 
-[![Back end](https://skillicons.dev/icons?i=c,cpp,git)](https://skillicons.dev)
+[![Back end](https://skillicons.dev/icons?i=c,cpp,java,git)](https://skillicons.dev)
 
 ###
 

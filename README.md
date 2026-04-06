@@ -12,7 +12,7 @@
 
 ## Tecnologias utilizadas
 
-[![Back end](https://skillicons.dev/icons?i=c,cpp,java,git)](https://skillicons.dev)
+[![Back end](https://skillicons.dev/icons?i=c,cpp,bash,java,git)](https://skillicons.dev)
 
 ###
 
